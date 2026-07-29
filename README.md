@@ -22,12 +22,6 @@
 | AI 应用开发 | `RAG 知识库`、`AI Agent 开发`、`MCP Server`、`MCP 工具开发`、`大模型工具调用`、`AI 应用集成`、`低代码 AI 智能体` |
 
 
-## 如何使用
-
-1. 先从你正在使用的语言、框架或业务形态进入。
-2. 再按具体任务定位资料，例如“前端表格”“服务端生成 Excel”“嵌入式 BI”。
-3. 需要继续学习时，从每个分区的知识库、博客、社区和课程入口延伸。
-
 ## 前端：React、Vue、Angular 与 TypeScript
 
 常搜关键词：`React`、`Vue 3`、`Angular`、`TypeScript`、`Vite`、`前端表格`、`在线 Excel`、`Web 报表`、`导入导出 Excel`
